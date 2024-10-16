@@ -1,0 +1,44 @@
+#body{
+    background-color: rgb(224, 223, 223);
+}
+#main-section{
+    
+    border: 1px solid gray;
+    width: 380px;
+    height: 300px;
+    border-radius: 10px;
+    background-color:rgb(241, 239, 239);
+    margin: 100px auto;
+    font-family:"Roboto", sans-serif ;
+    padding: 5px;
+
+}
+h2{
+    text-align: center;
+}
+#button{
+    background-color: #4caf50;
+    width: 380px;
+    border-radius: 10px;
+    margin-top: 5px;
+    color: white;
+
+}
+#button:hover{
+    color: burlywood;
+
+}
+ input[type="text"]{
+    border-radius: 10px;
+    width: 370px;
+    color: cadetblue;
+
+}
+input[type="number"]{
+    width: 370px;
+    color: cadetblue;
+}
+h2 ,p,label{
+    color: cadetblue;
+
+}
